@@ -43,4 +43,3 @@ steps:
       context: .
       push: false
       tags: node-demo:latest
-

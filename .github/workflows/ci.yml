@@ -14,7 +14,6 @@ jobs:
 
 build-test:
 
-```
 runs-on: ubuntu-latest
 
 steps:
@@ -44,5 +43,4 @@ steps:
       context: .
       push: false
       tags: node-demo:latest
-```
 
